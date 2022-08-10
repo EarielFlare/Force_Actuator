@@ -1,0 +1,3 @@
+trash_func.c:3:6:trash_acts_1	8	static
+trash_func.c:17:6:trash_acts_2	8	static
+trash_func.c:32:6:trash_acts_3	4	static

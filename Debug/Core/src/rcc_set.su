@@ -1,0 +1,2 @@
+rcc_set.c:3:6:RCC_DeInit	4	static
+rcc_set.c:44:5:RCC_Init_48MHz	16	static

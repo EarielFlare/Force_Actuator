@@ -1,0 +1,3 @@
+core_cm3.h:1511:22:__NVIC_EnableIRQ	16	static
+tim1_init.c:3:6:TIM1_UP_IRQHandler	4	static
+tim1_init.c:10:6:TIM1_Init	8	static

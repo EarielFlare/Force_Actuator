@@ -1,0 +1,4 @@
+core_cm3.h:1511:22:__NVIC_EnableIRQ	16	static
+tim2_enc.c:3:6:Enc2_proc	16	static
+tim2_enc.c:25:6:TIM2_IRQHandler	4	static
+tim2_enc.c:32:6:TIM2_Init_Encoder	8	static

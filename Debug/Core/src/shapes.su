@@ -1,0 +1,4 @@
+shapes.c:37:6:shape_2	48	static
+shapes.c:85:6:shape_4	24	static
+shapes.c:131:6:shape_5	24	static
+shapes.c:162:6:shape_6	48	static
